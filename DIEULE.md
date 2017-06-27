@@ -2,7 +2,7 @@
 
 **Tên quốc tế của nhóm:** Vietnamese Cosplay Community (VNCC)
 
-**Phiên bản điều lệ:** 20170627-01 (ngày 27/06/2017, sửa lần 1)
+**Phiên bản điều lệ:** 20170627-02 (ngày 27/06/2017, sửa lần 2)
 
 *Điều lệ này đang trong quá trình hoàn thiện. Cần thêm góp ý để điều lệ này nhanh chóng đi vào vận dụng cho một nhóm mới đúng nghĩa giao lưu cosplay mở và có văn hoá.*
 
@@ -12,11 +12,13 @@ Xem tại file [README](README.md).
 ## Quy định chung
 1. Ứng xử lịch sự, có văn hoá. Hạn chế công kích các thành viên khác. *Không* chửi bậy. Thành viên bị phát hiện chửi bậy sẽ bị chặn *(ban)* khỏi nhóm. Các bài viết có nội dung hoặc bình luận công kích sẽ bị khoá bình luận.
 2. Số ảnh tối đa được đăng trực tiếp vào nhóm là 3. Nếu số ảnh được chia sẻ vượt quá 3, hãy lập album riêng trên trang cá nhân và chia sẻ link của nó vào nhóm.
-3. Hạn chế việc sử dụng bình luận chỉ để kéo bài đăng lên đầu nhóm. Điển hình là các bình luận "chấm", chỉ có emoticon và/hoặc sticker.
-4. *Không* đăng các bài tuyển dàn và bán/trao đổi đồ và vật phẩm cosplay, trừ các bài giới thiệu nhóm cosplay và các bài giới thiệu người/dịch vụ được quy định ở mục dưới. Những bài giới thiệu dịch vụ sẽ bị khoá tính năng bình luận.
-5. *Không* đăng các bài thuộc loại low-cost cosplay, tức là chứa hình ảnh hoặc câu từ diễn tả việc sử dụng các đồ dùng hoặc sản phẩm thường ngày để tạo ra một bộ đồ trông có vẻ giống nhân vật được cosplay. Thể loại này bắt nguồn từ trang [Lowcostcosplay](https://www.facebook.com/Lowcostcosplay/).
-6. Có thể đăng bài về các biến cố xảy ra trong giới cosplay (ngoài các hoạt động chính của các sự kiện), nhưng các bài này sẽ không được duyệt mà thay vào đó sẽ được tổng hợp vắn tắt thành một chủ đề bàn luận riêng vào tối Chủ Nhật hằng tuần. Nếu vấn đề nhỏ và chỉ liên quan đến một số nhỏ cá nhân, hãy đăng lên một page confession.
-7. Chỉ admin được phép sử dụng một hashtag đặc biệt #vncc dành cho các bài viết về hoạt động của nhóm. Các thành viên khác không được sử dụng hashtag này trong bài viết.
+3. Nếu nội dung được chia sẻ trong bài viết không được đặt ở chế độ công khai, thành viên đăng bài sẽ được nhắc nhở. Chỉ sau khi nội dung chia sẻ được công khai thì bài chia sẻ mới được duyệt.
+4. Hạn chế việc sử dụng bình luận chỉ để kéo bài đăng lên đầu nhóm. Điển hình là các bình luận "chấm", chỉ có emoticon và/hoặc sticker.
+5. *Không* đăng các bài tuyển dàn và bán/trao đổi đồ và vật phẩm cosplay, trừ các bài giới thiệu nhóm cosplay và các bài giới thiệu người/dịch vụ được quy định ở mục dưới. Những bài giới thiệu dịch vụ sẽ bị khoá tính năng bình luận.
+6. *Không* đăng các bài thuộc loại low-cost cosplay, tức là chứa hình ảnh hoặc câu từ diễn tả việc sử dụng các đồ dùng hoặc sản phẩm thường ngày để tạo ra một bộ đồ trông có vẻ giống nhân vật được cosplay. Thể loại này bắt nguồn từ trang [Lowcostcosplay](https://www.facebook.com/Lowcostcosplay/).
+7. Có thể đăng bài về các biến cố xảy ra trong giới cosplay (ngoài các hoạt động chính của các sự kiện), nhưng các bài này sẽ không được duyệt mà thay vào đó sẽ được tổng hợp vắn tắt thành một chủ đề bàn luận riêng vào tối Chủ Nhật hằng tuần. Nếu vấn đề nhỏ và chỉ liên quan đến một số nhỏ cá nhân, hãy đăng lên một page confession.
+8. Chỉ admin được phép sử dụng một hashtag đặc biệt #vncc dành cho các bài viết về hoạt động của nhóm. Các thành viên khác không được sử dụng hashtag này trong bài viết.
+9. Những nội dung sau bị cấm: Link chứa virus hoặc phần mềm độc hại khác; quảng bá những thứ không liên quan đến cosplay; đụng chạm đến các vấn đề tôn giáo, chính trị, phân biệt giới tính và vùng miền; nội dung phản cảm. Các thành viên đăng những nội dung trên lần đầu sẽ bị cảnh cáo, lần sau sẽ bị chặn khỏi nhóm.
 
 ## Nội dung được phép
 Nhóm giới hạn cho phép đăng các loại nội dung dưới đây vào một số ngày nhất định trong tuần.
