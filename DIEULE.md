@@ -151,12 +151,12 @@ Riêng các bài về freestyle sẽ được duyệt vào sáng và chiều th�
 #### Đối với các bài giới thiệu
 Sử dụng thông tin thật.
 - Đối với cosplayer và người chuyên freestyle, khuyến khích giới thiệu tên riêng trong hoạt động tương ứng. Đối với photographer, khuyến khích giới thiệu tên dự án ảnh cosplay của bản thân. Các trường hợp còn lại, cần có tên dịch vụ (trừ dịch vụ do một cá nhân thực hiện).
-- Nêu rõ tuổi thật của bản thân hoặc không nêu tuổi. Tương tự đối với khoảng thời gian, thời điểm bắt đầu/tạm dừng/dừng hẳn hoạt động.
+- Nêu rõ tuổi thật của bản thân hoặc không nêu tuổi. Tương tự đối với năm sinh, khoảng thời gian, thời điểm bắt đầu/tạm dừng/dừng hẳn hoạt động.
 
 #### Đối với kinh nghiệm, lời khuyên và trải nghiệm
 - Trải nghiệm được trình bày dưới dạng một câu chuyện của bản thân trong hoạt động của mình. Ví dụ: Cosplayer kể chuyện quá trình hoàn thiện một bộ đồ cosplay. Photographer kể chuyện một ngày đi shoot hoặc một ngày chụp tại sự kiện. Người make-up kể chuyện nhận suất và thực hiện make-up.
 - Kinh nghiệm và lời khuyên được trình bày dưới dạng điều cần làm hoặc giải pháp cho một vấn đề.
-- Bất cứ góp ý dành cho hoạt động cosplay/freestyle/make-up/làm đồ đều thuộc loại lời khuyên.
+- Bất cứ góp ý dành cho hoạt động cosplay/freestyle/make-up/làm đồ... đều thuộc loại lời khuyên.
 
 #### Đối với hỏi đáp
 - Nếu hỏi thông tin về một cosplayer, không sử dụng hashtag #hoidap và #cosplay. Mà sử dụng hai hashtag này: #timkiem #cosplayer.
